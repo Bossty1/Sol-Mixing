@@ -1,2 +1,2 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Auto-generated files — collapse diffs and exclude from language stats
+web/package-lock.json linguist-generated=true
